@@ -1,52 +1,44 @@
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:2d6a8a,100:00bfbf&height=140"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:2d6a8a,100:00bfbf&height=140"/>
 
   <p align="center">
-    <samp>Engenheiro de Confiabilidade (Suzano) ➜<strong>Engenharia de Dados</strong><br>
-    Formando em julho/2026 • Pós na PUC Minas • Buscando estágio em dados</samp>
+    <samp>Analista de Manutenção Preditiva (Suzano) ➜ <strong>Engenharia de Dados</strong><br>
   </p>
 
   ---
 
-  <p align="center">
-    <samp><strong>📊 Minha jornada em Engenharia de Dados</strong> → <a 
-  href="https://github.com/WelberBrito/data-pipeline-journey">data-pipeline-journey</a></samp>
-  </p>
+  ### 🚧 Construindo minha base
+
+  Vim da manutenção preditiva — lido com dados de sensores, indicadores e análise preditiva no dia a dia na Suzano. Agora quero levar essa curiosidade   
+  por dados pra engenharia de dados.
 
   ---
 
-  ### 🛠  Stack em aprendizado
+  ### 📊 Meu projeto de aprendizado
 
-  - **Linguagem:** SQL • Python
-  - **Processamento:** PySpark • dbt
-  - **Orquestração:** Apache Airflow
-  - **Cloud:** AWS (S3, IAM, Lambda) • GCP (BigQuery, Cloud Storage)
-  - **Infra:** Docker • Git/GitHub
+  👉<a href="https://github.com/WelberBrito/data-pipeline-journey"><strong>data-pipeline-journey</strong></a> — repositório onde documentando cada      
+  sprint, cada erro, cada avanço.
 
-  ### 🎯 Foco atual: SQL
-
-  Estou na **Fase 1** do roadmap — construindo base sólida em SQL antes de avançar
-  para Python, cloud e pipelines.
-
-  Documentando tudo no [`data-pipeline-journey`](https://github.com/WelberBrito/data-pipeline-journey).
-
-  ### 📈 Trajetória
-
-  Manutenção Florestal (Suzano) ───► Engenharia de Dados
-          │                                   │
-    Confiabilidade    ─────► Pipelines, SQL, Python
-    (até 15/04)              dbt, Airflow, Spark
+  Fase atual: **SQL sólido**
 
   ---
 
+  ### 🛠  O que sei e o que tô aprendendo
+
+  | Já uso no dia a dia | Estudando agora | Na fila |
+  |---------------------|-----------------|---------|
+  | Manutenção preditiva | SQL (window functions, CTEs) | Python (pandas) |
+  | Indicadores, análise de dados | Git/GitHub | Cloud (AWS/GCP) |
+  | Excel avançado, PowerPlatform (BI, Apps, Automate) | — | dbt, Airflow, PySpark |
+
+  ---
+
+  ### 📬 Contato
+
   <p align="center">
-    <a href="https://www.linkedin.com/in/(seu-linkedin)/">
+    <a href="https://www.linkedin.com/in/welberbrito/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:(seu-email)">
+    <a href="mailto:(welberbrito14@gmail.com)">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://www.instagram.com/britowelber/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
   </p>
