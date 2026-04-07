@@ -1,47 +1,52 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Welber+Brito;I'm+23+years+old;I+from+Brasil,+MG;I+study+analysis+and+systems+development+at+IFNMG;Be+Welcome!+:%29)](https://git.io/typing-svg)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:2d6a8a,100:00bfbf&height=140"/>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WelberBrito&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelberBrito&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+  <p align="center">
+    <samp>Engenheiro de Confiabilidade (Suzano) ➜<strong>Engenharia de Dados</strong><br>
+    Formando em julho/2026 • Pós na PUC Minas • Buscando estágio em dados</samp>
+  </p>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=WelberBrito&theme=gotham&hide_border=true&area=true)
+  ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WelberBrito&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+  <p align="center">
+    <samp><strong>📊 Minha jornada em Engenharia de Dados</strong> → <a 
+  href="https://github.com/WelberBrito/data-pipeline-journey">data-pipeline-journey</a></samp>
+  </p>
 
-<div align="center">  
-<a href="https://www.instagram.com/britowelber/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
+  ---
 
-### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-<!-- ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp; -->
+  ### 🛠  Stack em aprendizado
 
-### Tools:
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+  - **Linguagem:** SQL • Python
+  - **Processamento:** PySpark • dbt
+  - **Orquestração:** Apache Airflow
+  - **Cloud:** AWS (S3, IAM, Lambda) • GCP (BigQuery, Cloud Storage)
+  - **Infra:** Docker • Git/GitHub
 
-### Other Knowledge:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+  ### 🎯 Foco atual: SQL
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{WelberBrito}/count.svg" /></p> 
-<br></div>
+  Estou na **Fase 1** do roadmap — construindo base sólida em SQL antes de avançar
+  para Python, cloud e pipelines.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+  Documentando tudo no [`data-pipeline-journey`](https://github.com/WelberBrito/data-pipeline-journey).
+
+  ### 📈 Trajetória
+
+  Manutenção Florestal (Suzano) ───► Engenharia de Dados
+          │                                   │
+    Confiabilidade    ─────► Pipelines, SQL, Python
+    (até 15/04)              dbt, Airflow, Spark
+
+  ---
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/(seu-linkedin)/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:(seu-email)">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.instagram.com/britowelber/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+  </p>
