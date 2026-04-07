@@ -8,8 +8,7 @@
 
   ### 🚧 Construindo minha base
 
-  Vim da manutenção preditiva — lido com dados de sensores, indicadores e análise preditiva no dia a dia na Suzano. Agora quero levar essa curiosidade   
-  por dados pra engenharia de dados.
+  Vim da manutenção preditiva — lido com dados de sensores, indicadores e análise preditiva no dia a dia na Suzano. Agora quero levar essa curiosidade por dados pra engenharia de dados.
 
   ---
 
